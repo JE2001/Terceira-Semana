@@ -1,4 +1,4 @@
-package HerancaExercicios.Animais;
+package Animais;
 
 public class testeOviparo {
     public static void main(String [] args) {
