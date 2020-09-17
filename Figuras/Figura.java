@@ -1,4 +1,4 @@
-package HerancaExercicios.Figuras;
+package Figuras;
 
 public class Figura {
 
