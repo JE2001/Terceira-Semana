@@ -1,4 +1,4 @@
-package HerancaExercicios.Animais;
+package Animais;
 
 public class Gato extends Mamifero{
     public Gato(String nome, int qtde_patas, boolean AlimentarLeite){
