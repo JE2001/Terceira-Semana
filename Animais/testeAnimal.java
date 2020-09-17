@@ -1,4 +1,4 @@
-package HerancaExercicios.Animais;
+package Animais;
 
 public class testeAnimal {
 
